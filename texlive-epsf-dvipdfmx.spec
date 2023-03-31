@@ -1,6 +1,6 @@
 Name:		texlive-epsf-dvipdfmx
 Version:	35575
-Release:	1
+Release:	2
 Summary:	Plain TeX file for using epsf.tex with (x)dvipdfmx
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/epsf-dvipdfmx
