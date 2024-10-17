@@ -3,7 +3,7 @@ Version:	35575
 Release:	2
 Summary:	Plain TeX file for using epsf.tex with (x)dvipdfmx
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/epsf-dvipdfmx
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/epsf-dvipdfmx
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/epsf-dvipdfmx.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/epsf-dvipdfmx.doc.r%{version}.tar.xz
